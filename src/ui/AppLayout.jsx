@@ -19,7 +19,7 @@ function AppLayout() {
         </main>
       </div>
 
-      <div className="bottom-0 fixed">
+      <div>
         <CartOverview />
       </div>
     </div>
