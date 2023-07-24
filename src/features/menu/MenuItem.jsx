@@ -62,7 +62,6 @@ function MenuItem({ pizza }) {
             </Button>
           )}
         </div>
-        !
       </div>
     </li>
   );
