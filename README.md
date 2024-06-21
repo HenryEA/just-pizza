@@ -6,4 +6,6 @@ This project was built to make it easy for customers to order pizza remotely and
 - Global State Management with Redux
 - Advanced data fetching 
 - Reusable styled components
-  
+
+  The application is deployed to the site below.
+  https://just-pizza-nine.vercel.app/
