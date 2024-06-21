@@ -8,4 +8,5 @@ This project was built to make it easy for customers to order pizza remotely and
 - Reusable styled components
 
   The application is deployed to the site below.
+  
   https://just-pizza-nine.vercel.app/
